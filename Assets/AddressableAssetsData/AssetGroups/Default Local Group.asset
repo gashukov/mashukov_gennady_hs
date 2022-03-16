@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e8bddaaca209b0349b7cf48f84fa09d0
+  m_SerializeEntries:
+  - m_GUID: 4d443ad3a9ae6a64f8e97dc1894fc34f
+    m_Address: Waypoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa3df9a71c0e9e94ab7ed593d2065907
+    m_Address: Base
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2db00b535dc7d8f4d9f9745668ac8ae8
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6ce0d3f8ddff6c4694b0ff107e2e484
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa8a152df071ecf499659dbee5899f0c
+    m_Address: ClickRaycaster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 03b14df1212909c4dba4ef417fc6e720, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fca6b5a48fb67ec4084a0a6909867e86, type: 2}
+    - {fileID: 11400000, guid: 8135192cacdf7b840b5ef973c93a26dd, type: 2}
